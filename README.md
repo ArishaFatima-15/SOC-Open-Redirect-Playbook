@@ -1,0 +1,1 @@
+# SOC-Open-Redirect-Playbook
