@@ -1,0 +1,20 @@
+Error: Unrecognized target URL for redirect: http://evil-phishing-site.com
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: https://github.com/bkimminich/juice-shop
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: http://evil-phishing-site.com
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: http://evil-phishing-site.com
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: http://evil-phishing-site.com
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: http://evil-phishing-site.com
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: https://github.com/bkimminich/juice-shop
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: https://github.com/bkimminich/juice-shop
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: https://github.com/bkimminich/juice-shop
+    at /juice-shop/build/routes/redirect.js:54:18
+Error: Unrecognized target URL for redirect: https://github.com/bkimminich/juice-shop
+    at /juice-shop/build/routes/redirect.js:54:18
