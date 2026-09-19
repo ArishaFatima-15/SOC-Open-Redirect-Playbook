@@ -1,5 +1,5 @@
-SOC Detection & Response Playbook - Open Redirect (Video Production Scenario)
-
+**SOC Detection & Response Playbook - Open Redirect (Video Production Scenario)
+**
 ## Objective:
 Build a defensive monitoring and response playbook for detecting Open Redirect-style attack activity, framed as a SOC analyst protecting a Video Production organization. This project covers detection rules, alert-triage workflows, and an incident-response playbook.
 
